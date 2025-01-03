@@ -13,10 +13,10 @@
     },
     {
       "priority": "FACEBOOK",
-      "inter": "YOUR_PLACEMENT_ID",
-      "banner": "YOUR_PLACEMENT_ID",
-      "native": "YOUR_PLACEMENT_ID",
-      "rewared": "YOUR_PLACEMENT_ID",
+      "inter": ["YOUR_PLACEMENT_ID"],
+      "banner": ["YOUR_PLACEMENT_ID"],
+      "native": ["YOUR_PLACEMENT_ID"],
+      "rewared": ["YOUR_PLACEMENT_ID"],
       "openApp":"YOUR_PLACEMENT_ID",
       "isShowAds": false
     }
